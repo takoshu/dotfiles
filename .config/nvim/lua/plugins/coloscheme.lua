@@ -1,4 +1,5 @@
 return {
+  --a
   { "xiyaowong/transparent.nvim" },
   {
     "lunarvim/synthwave84.nvim",
